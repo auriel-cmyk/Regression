@@ -1,0 +1,25 @@
+requirements.txt
+# Abaikan virtual environment
+venv/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan file log
+*.log
+
+# Abaikan file sistem (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Abaikan file model machine learning
+*.pkl
+
+# Abaikan konfigurasi environment
+*.env
+
+# Abaikan file Jupyter Notebook checkpoint
+.ipynb_checkpoints/
